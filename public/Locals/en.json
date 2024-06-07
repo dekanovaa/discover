@@ -1,0 +1,118 @@
+{
+    "navbar":{
+        "link1":"About",
+        "link2":"Projects",
+        "link3":"Career",
+        "link4":"News",
+        "link5":"Contacts"
+    },
+    "header":{
+        "text":"Perfection in everything",
+        "btn1":"Projects",
+        "btn2":"Contacts"
+    },
+    "about":{
+        "title":"About",
+        "name":" DISCOVER INVEST",
+        "text":"We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment: the company takes full responsibility for the environmental aspects related to the construction and operation of buildings and infrastructure. ",
+        "text1":"The number of employees",
+        "text2":"projects",
+        "text3":"Residential complexes",
+        "text4":"14 years on marketplace",
+        "text5":"Special techniques recuperated",
+        "text6":"Hospitals",
+        "link":"About"
+    },
+    "main":{
+        "title":"Our",
+        "name":"advantages",
+        "text1":"Our team",
+        "text2":"The company recruits experienced employees on a competitive basis",
+        "text3":"Positive customer approach",
+        "text4":"By looking at the great work we have done through our website, you will be sure that we have earned the trust of our customers",
+        "text5":"All work guaranteed",
+        "text6":"We perform our mission carefully and appreciate your belief in our company All mistakes were clearly corrected"
+    },
+    "team":{
+        "title":"Our",
+        "name":"team",
+        "text1":"Norbekov Shavkat Bo'riboy o'g'li",
+        "text2":"Project Manager",
+        "text3":"Artiqbaev Saxobiddin Doniyor o'g'li",
+        "text4":"Boltaev Obidjon Uchqin o'g'li",
+        "text5":"Xusanov Akromjon Turaxon o'g'li",
+        "text6":"Kuziev Jakhongir Bakhodirovich",
+        "text7":"Construction site supervisor"
+    },
+    "projects":{
+        "title":"Our",
+        "name":"projects",
+        "text1":"Magic city is a large socially significant project. The cultural and entertainment cluster in Tashkent is one of the new attractions.",
+        "text2":"A multifunctional residential complex created to provide comfort to the residents of Uzbekistan.",
+        "text3":"A grandiose residential quarter in the heart of the capital.",
+        "text4":"Fonon is a jewelry factory in Uzbekistan built on the basis of Italian ones in 2020. Fonon is the only large enterprise in Central Asia producing jewelry made of precious metals in European and Oriental style.",
+        "text5":"International kindergarten and school located in the international business center Tashkent City",
+        "text6":"The Presidential School is a specialized public educational institution whose activities are aimed at identifying and educating gifted children to train highly qualified specialists.",
+        "btn":"All projects"
+    },
+    "new":{
+        "title":"Company",
+        "name":"news",
+        "text1":"Who is the project manager of construction?",
+        "text2":"Discover Invest congratulates everyone on a coming Happy New Year 2023!",
+        "text3":"Discover Invest congratulates everyone on a coming Happy New Year",
+        "text4":"We continue to introduce you to Discover Invest's wide range of construction properties.",
+        "link":"More details",
+        "btn":"All news",
+        "title2":"News",
+        "text9":"We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment:"
+    },
+    "contact":{
+        "title":"Contacts",
+        "text1":"Address",
+        "text2":"Phone",
+        "text3":"Working hours",
+        "text4":"Phone number",
+        "text5":"Your name",
+        "text6":"What is your name?",
+        "btn":"Feedback",
+        "title2":"Contacts",
+        "text7":"Leave your contacts by filling out the current form and we will contact you as soon as possible.",
+        "page_name":"How we can help?",
+        "page_text":"Leave your contacts by filling out the current form and we will contact you as soon as possible."
+    },
+    "project_header":{
+        "text":"We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment:",
+        "name":"Project"
+    },
+    "form":{
+        "text1":"Name",
+        "text2":"What is your name?",
+        "text3":"Phone number",
+        "text4":"Department",
+        "text5":"Sales department",
+        "text6":"Human Resources Department",
+        "text7":"Finansial department",
+        "text8":"Accounting",
+        "text9":"Office",
+        "text10":"Your question",
+        "text11":"leave your question..."
+
+    },
+    "about_page":{
+        "title":"ABOUT COMPANY",
+        "text1":"We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment:",
+        "btn1":"Download ppt",
+        "title2":"About company",
+        "text2":"We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment: the company takes full responsibility for the environmental aspects related to the construction and operation of buildings and infrastructure.",
+        "btn2":"projects",
+        "text3":"Our mission",
+        "text4":"Our mission We introduce the most advanced technologies in construction in Uzbekistan and create modern design solutions. Relying on first-class workers, we build affordable housing and industrial buildings for many years.",
+        "text5":"Our Vision",
+        "text6":"Creation of the best project company in Central Asia, which provides an opportunity to: - Society - to improve the standard of living of people by setting high standards in work. - Clients - to enjoy joint activities, to build long-term and open relationships. - Employees - constant growth,",
+        "text7":"Our values",
+        "text8":"Our values Since the founding (LLC) Discover Invest in 2008, we have been working only with professionals. Our specialists use advanced technologies and an innovative approach to business.Regardless of the time and place of operation, we remain committed to our values: staff and safety, continuous improvement and the trust of our customers."
+    }
+
+
+}

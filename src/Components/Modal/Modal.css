@@ -1,0 +1,12 @@
+.modal__link{
+    color:black;
+    font-size:30px;
+}
+#modal__icon{
+    color:black;
+    font-size:30px;
+    display: block;
+}
+.modal__box{
+    display:flex
+}

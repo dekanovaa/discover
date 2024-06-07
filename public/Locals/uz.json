@@ -1,0 +1,122 @@
+{
+    "navbar": {
+        "link1": "Biz haqimizda",
+        "link2": "Loyihalar",
+        "link3": "Karyera",
+        "link4": "Yangiliklar",
+        "link5": "Kontaktlar"
+    },
+    "header": {
+        "text": "Har narsada mukammallik",
+        "btn1": "Loyihalar",
+        "btn2": "Kontaktlar"
+    },
+    "about": {
+        "title": "Biz haqimizda",
+        "name": "DISCOVER INVEST",
+        "text": "Biz faqat loyihalar yaratmaymiz, biz yangi imkoniyatlar yaratamiz. Davlat miqyosidagi inshootlarni qurish orqali biz kelajakni qurmoqdamiz. Biz atrof-muhitga e'tibor beramiz: kompaniya binolar va infratuzilmaning qurilishi va ishlashi bilan bog'liq ekologik jihatlarni to'liq javobgarlikka oladi.",
+        "text1": "Xodimlar soni",
+        "text2": "loyihalar",
+        "text3": "Yashash majmualari",
+        "text4": "14 yil bozorda",
+        "text5": "Maxsus texnika tiklandi",
+        "text6": "Kasaba",
+        "link": "Biz haqimizda"
+    },
+    "main": {
+        "title": "Bizning",
+        "name": "afzalliklarimiz",
+        "text1": "Bizning jamoa",
+        "text2": "Kompaniya tajribali xodimlarni tanlov asosida yollaydi",
+        "text3": "Ijobiy mijoz yondashuvi",
+        "text4": "Saytimiz orqali bajarilgan ajoyib ishlarni ko'rib, mijozlarimiz ishonchini qozonganligimizga amin bo'lasiz",
+        "text5": "Barcha ishlar kafolatlangan",
+        "text6": "Biz o'z vazifamizni diqqat bilan bajarib, kompaniyamizga ishonishingizni qadrlaymiz. Barcha xatolar aniq tuzatildi"
+    },
+    "team": {
+        "title": "Bizning",
+        "name": "jamoa",
+        "text1": "Norbekov Shavkat Bo'riboy o'g'li",
+        "text2": "Loyiha boshqaruvchisi",
+        "text3": "Artiqbaev Saxobiddin Doniyor o'g'li",
+        "text4": "Boltaev Obidjon Uchqin o'g'li",
+        "text5": "Xusanov Akromjon Turaxon o'g'li",
+        "text6": "Kuziev Jakhongir Bakhodirovich",
+        "text7": "Qurilish maydoni nazoratchisi"
+    },
+    "projects": {
+        "title": "Bizning",
+        "name": "loyihalar",
+        "text1": "Magic city katta ijtimoiy ahamiyatga ega loyihadir. Toshkentdagi madaniyat va ko'ngilochar klaster yangi diqqatga sazovor joylardan biridir.",
+        "text2": "O'zbekiston aholisiga qulaylik yaratish uchun yaratilgan ko'p funktsional turar-joy majmuasi.",
+        "text3": "Poytaxtning markazida joylashgan ulkan turar-joy kvartali.",
+        "text4": "Fonon 2020 yilda Italiya asosida qurilgan O'zbekistondagi zargarlik fabrikasidir. Fonon Markaziy Osiyodagi qimmatbaho metallardan tayyorlangan zargarlik buyumlarini Yevropa va Sharq uslubida ishlab chiqaradigan yagona yirik korxona.",
+        "text5": "Toshkent City xalqaro biznes markazida joylashgan xalqaro bolalar bog'chasi va maktab",
+        "text6": "Prezident maktabi iqtidorli bolalarni aniqlash va o'qitishga yo'naltirilgan maxsus davlat ta'lim muassasasi bo'lib, yuqori malakali mutaxassislarni tayyorlashga qaratilgan.",
+        "btn": "Barcha loyihalar"
+    },
+    "new": {
+        "title": "Kompaniya",
+        "name": "yangiliklar",
+        "text1": "Qurilish loyihasining boshqaruvchisi kim?",
+        "text2": "Discover Invest barchani yaqinlashib kelayotgan 2023 yil Yangi yilingiz bilan tabriklaydi!",
+        "text3": "O'ZBEKISTON RESPUBLIKASI KONSTITUTSIYASI QABUL QILINGAN KUN",
+        "text4": "Biz sizni Discover Investning keng ko'lamli qurilish mulklari bilan tanishtirishda davom etamiz.",
+        "link": "Batafsil ma'lumot",
+        "btn": "Barcha yangiliklar",
+        "title2":"Yangiliklar",
+        "text9":"Biz shunchaki loyihalar yaratmaymiz, yangi imkoniyatlar yaratamiz. Davlat miqyosidagi inshootlarni qurish orqali biz kelajakni quryapmiz. Biz atrof-muhit haqida qayg'uramiz:"
+    },
+    "contact": {
+        "title": "Kontaktlar",
+        "text1": "Manzil",
+        "text2": "Telefon",
+        "text3": "Ish vaqti",
+        "text4": "Telefon raqami",
+        "text5": "Sizning ismingiz",
+        "text6": "Ismingiz nima?",
+        "btn": "Fikr-mulohaza",
+        "text7":"Joriy shaklni to'ldirish orqali kontaktlaringizni qoldiring va biz imkon qadar tezroq siz bilan bog'lanamiz.",
+        "title2":"Kontaktlar",
+        "page_name":"Sizga qanday yordam bera olamiz?",
+        "page_text":"Havolani to’ldirib, telefon raqamingizni qoldiring va biz yaqin vaqt ichida aloqaga chiqamiz"
+
+    },
+    "project_header":{
+        "text":"Biz shunchaki loyihalar yaratmaymiz, yangi imkoniyatlar yaratamiz. Davlat miqyosidagi inshootlarni qurish orqali biz kelajakni quryapmiz. Biz atrof-muhit haqida qayg'uramiz:",
+        "name":"LOYIHA"
+    },
+    
+        "form": {
+            "text1": "Ism",
+            "text2": "Ismingiz nima?",
+            "text3": "Telefon raqami",
+            "text4": "Bo'lim",
+            "text5": "Savdo bo'limi",
+            "text6": "Kadrlar bo'limi",
+            "text7": "Moliyaviy bo'lim",
+            "text8": "Buxgalteriya",
+            "text9": "Idora",
+            "text10": "Sizning savolingiz",
+            "text11": "Savolingizni qoldiring..."
+        },
+        
+            "about_page": {
+                "title": "KOMPANIYA HAQIDA",
+                "text1": "Biz nafaqat loyihalar yaratamiz, balki yangi imkoniyatlar yaratamiz. Davlat miqyosidagi obyektlarni qurib, biz kelajakni quramiz. Biz atrof-muhitga g'amxo'rlik qilamiz:",
+                "btn1": "Taqdimotni yuklab olish",
+                "title2": "Kompaniya haqida",
+                "text2": "Biz nafaqat loyihalar yaratamiz, balki yangi imkoniyatlar yaratamiz. Davlat miqyosidagi obyektlarni qurib, biz kelajakni quramiz. Biz atrof-muhitga g'amxo'rlik qilamiz: kompaniya qurilish va inshootlarni ekspluatatsiya qilish bilan bog'liq ekologik masalalar uchun to'liq javobgarlikni o'z zimmasiga oladi.",
+                "btn2": "loyihalar",
+                "text3": "Bizning missiyamiz",
+                "text4": "Bizning missiyamiz O'zbekistonda eng ilg'or texnologiyalarni qurilish sohasiga joriy etish va zamonaviy dizayn yechimlarini yaratish. Birinchi darajali ishchilarga tayanib, biz uzoq yillar davomida arzon uy-joylar va sanoat binolarini quramiz.",
+                "text5": "Bizning Vizyonimiz",
+                "text6": "Markaziy Osiyoda eng yaxshi loyiha kompaniyasini yaratish, bu imkoniyatni taqdim etadi: - Jamiyat - ishlashda yuqori standartlarni belgilash orqali odamlarning hayot darajasini yaxshilash. - Mijozlar - qo'shma faoliyatdan zavqlanish, uzoq muddatli va ochiq munosabatlarni qurish. - Xodimlar - doimiy o'sish,",
+                "text7": "Bizning qadriyatlarimiz",
+                "text8": "Bizning qadriyatlarimiz 2008 yilda (LLC) Discover Invest asos solinganidan beri, biz faqat professionallar bilan ishlaymiz. Bizning mutaxassislarimiz ilg'or texnologiyalar va innovatsion yondashuvni ishlatadilar. Ish vaqti va joyidan qat'iy nazar, biz qadriyatlarimizga sodiq qolamiz: xodimlar va xavfsizlik, doimiy takomillashuv va mijozlarimizning ishonchi."
+            }
+        
+        
+    
+    
+}
